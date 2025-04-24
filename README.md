@@ -1,2 +1,2 @@
 # Battle-City-3-Resources
-Репозиторий в котором лежат картинки и другие ресурсы, которые нужны для публикации battle city
+Repository containing images and other resources for battle city
